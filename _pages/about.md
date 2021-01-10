@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a computer science master's degree student. I currently conduct research related to computational intelligence / computer vision, mainly related to convolutional neural networks. I also conduct research related to the control of the formation of mobile robots.
+I am a computer science master's degree student. I currently conduct research related to computational intelligence / computer vision, mainly related to convolutional neural networks. I also conduct research related to formation control of mobile robots.
 
 There are currently several research subjects in progress. Some of them are listed below.
 
