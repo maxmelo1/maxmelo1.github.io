@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience at IFMS (since 2017)"
 collection: teaching
 type: "Certificate program"
 permalink: /teaching/2017-it-teaching-1
 venue: "Federal Institute of Education, Science and Technology of Mato Grosso do Sul - IFMS"
-date: 2015-01-01
+date: 2017-01-01
 location: "Naviraí/MS, Brasil"
 ---
 
@@ -18,7 +18,7 @@ Subjects in IFMS
 - Computer Networs.
 - Computational Language.
 
-research project
+Research project
 ======
 
 - Estufas tecnológicas.
