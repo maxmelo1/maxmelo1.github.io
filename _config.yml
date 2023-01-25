@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maximilian de Melo"
+  name             : "Maximilian J. de Melo"
   avatar           : "profile2.png"
-  bio              : "Computer science master's degree student"
-  location         : "Naviraí/MS/BR"
-  employer         :
+  bio              : "Computer Vision Researcher/PhD student"
+  location         : "Campo Grande/MS/BR"
+  employer         : "IFMS"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=pt-BR&user=R95x8CoAAAAJ"
   email            : "maximilian.melo@ufms.br"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Maximilian-De-Melo" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        : "https://bitbucket.org/maxmelo/"
   codepen          :
