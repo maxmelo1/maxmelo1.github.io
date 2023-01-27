@@ -1,0 +1,17 @@
+---
+title: "Semantic segmentation with labeling uncertainty and class imbalance applied to vegetation mapping"
+collection: publications
+permalink: /publication/2022-04-01-ijag
+excerpt: 'Recently, Convolutional Neural Networks (CNN) methods achieved impressive success in semantic segmentation tasks. However, challenges like class imbalance around samples and the uncertainty in human pixel-labeling are not completely addressed. Here we present an approach that calculates a weight for each pixel considering its class and uncertainty during the labeling process. The pixel-wise weights are used at the training phase to increase or decrease the importance of the pixels accordingly. Experimental results were conducted adapting well-known CNN methods FCN and SegNet; however, this strategy can be applied to any segmentation method. We evaluated the experiments for semantic segmentation of urban trees in aerial imageries. The robustness of the
+approach was assessed using a dataset with terrestrial images from vegetation with a drastic imbalance condition. We achieved significant improvements in the tasks compared to the baseline methods. We also verified that the proposed strategy proved to be more invariant to noise. The approach presented in this paper could be used within a wide range of semantic segmentation methods to improve their robustness.'
+date: 2022-04-01
+venue: 'International Journal of Applied Earth Observation and Geoinformation'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0303243422000162'
+citation: 'BRESSAN, Patrik Olã et al. Semantic segmentation with labeling uncertainty and class imbalance applied to vegetation mapping. International Journal of Applied Earth Observation and Geoinformation, v. 108, p. 102690, 2022.'
+---
+Recently, Convolutional Neural Networks (CNN) methods achieved impressive success in semantic segmentation tasks. However, challenges like class imbalance around samples and the uncertainty in human pixel-labeling are not completely addressed. Here we present an approach that calculates a weight for each pixel considering its class and uncertainty during the labeling process. The pixel-wise weights are used at the training phase to increase or decrease the importance of the pixels accordingly. Experimental results were conducted adapting well-known CNN methods FCN and SegNet; however, this strategy can be applied to any segmentation method. We evaluated the experiments for semantic segmentation of urban trees in aerial imageries. The robustness of the
+approach was assessed using a dataset with terrestrial images from vegetation with a drastic imbalance condition. We achieved significant improvements in the tasks compared to the baseline methods. We also verified that the proposed strategy proved to be more invariant to noise. The approach presented in this paper could be used within a wide range of semantic segmentation methods to improve their robustness.
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0303243422000162)
+
+Recommended citation: BRESSAN, Patrik Olã et al. Semantic segmentation with labeling uncertainty and class imbalance applied to vegetation mapping. International Journal of Applied Earth Observation and Geoinformation, v. 108, p. 102690, 2022.
